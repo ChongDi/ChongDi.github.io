@@ -15,7 +15,7 @@ I received the B.S. degree from Xidian University, in 2016. I am currently pursu
 Research
 ======
 
-NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA | MAIN PARTICIPANT
+NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA 
 
 ------
 **Research on Learning Automata for Influence Maximization in Large-scale Dynamic Networks**
